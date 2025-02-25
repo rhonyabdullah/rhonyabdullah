@@ -30,6 +30,6 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhonyabdullah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhonyabdullah&layout=compact&langs_count=8&theme=dark&hide=php,visual%20basic,css,javascript"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhonyabdullah&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhonyabdullah&layout=compact&langs_count=8&theme=nightowl&hide=php,visual%20basic,css,javascript"/>
 </p>
