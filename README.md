@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Rhony Abdullah Siagian</h1>
+<h1 align="center">Hi there! 👋 I'm Rhony</h1>
 <h3 align="center">🚀 Android Engineer | Mobile Security Enthusiast</h3>
 
 <p align="center">
